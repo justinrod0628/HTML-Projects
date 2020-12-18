@@ -1,14 +1,25 @@
-Project #1
-http://eve.kean.edu/~myname/MyProject1.html
+#### This is a repository that I created on GitHub to showcase my three projects from the semester.
 
-Description: My personal website
 
-Project #2
-http://eve.kean.edu/~myname/MyProject2.html
+# Justin Rodriguez
 
-Description: A front-end prototype of an E-commerce website
 
-Project #3
-http://eve.kean.edu/~myname/MyProject3.html
+## Project #1
 
-Description: A complete "Web Dev Story" that adopts a Design Thinking approach to address a problem through a front-end website build
+- http://eve.kean.edu/~rjustin/Project1_Home.html
+
+- <b>Description:</b>  My personal website that I created to showcase my experince as a programmer along with my resume and linkedIn page.
+
+
+## Project #2
+
+- http://eve.kean.edu/~rjustin/Project2_home.html
+
+- <b>Description:</b>  A front-end prototype of an E-commerce website that sells computer parts.
+
+
+## Project #3
+
+- http://eve.kean.edu/~rjustin/Project3_Home.html
+
+- <b>Description:</b>  A front-end prototype of a Q/A Website designed for college students. This website alows users to upload files and submit questions.

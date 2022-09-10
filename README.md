@@ -8,7 +8,7 @@
 
 - http://eve.kean.edu/~rjustin/Project1_Home.html
 
-- <b>Description:</b>  My personal website that I created to showcase my experince as a programmer along with my resume and linkedIn page.
+- <b>Description:</b>  My personal website that I created to showcase my experience as a programmer along with my resume and linkedIn page.
 
 
 ## Project #2
